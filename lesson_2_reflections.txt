@@ -1,5 +1,13 @@
-﻿What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository? Why do you need to do it?
 
 Because... I must initialized it dude? Why else?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Store things to be commited
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I don't know
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
